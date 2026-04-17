@@ -1,7 +1,5 @@
 
-  # Ensure Responsive Design
-
-  This is a code bundle for Ensure Responsive Design. The original project is available at https://www.figma.com/design/Nacb2kd0RHnJClfVnhxFdP/Ensure-Responsive-Design.
+  # ARGabay-apk
 
   ## Running the code
 
